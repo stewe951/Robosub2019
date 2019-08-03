@@ -3,11 +3,13 @@ darkflow/
 
 
 # cfg
-cfg/
+Vision/cfg/
 
 # Python bytecode
 *.pyc
 *.idea/
+.idea/*
+
 
 # Weight files
 bin/
@@ -51,3 +53,4 @@ ckpt/*
 
 #pytest cache
 .cache/
+.gitignore

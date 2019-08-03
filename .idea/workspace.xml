@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04fdf385-1e52-447b-9448-3a7453de2097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AutonomousSurvey.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Robosub2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Robosub2019.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/fanti.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/fanti.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="04fdf385-1e52-447b-9448-3a7453de2097" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,14 +22,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AutonomousSurvey.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="75" selection-start-line="75" selection-end-line="75" />
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Vision/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
+              <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -90,12 +94,18 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="stewe951 &lt;stewe951@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/AutonomousSurvey.py" />
+        <option value="$PROJECT_DIR$/Vision/.gitignore" />
       </list>
     </option>
   </component>
@@ -242,6 +252,14 @@
       <option name="presentableId" value="Default" />
       <updated>1564547191809</updated>
     </task>
+    <task id="LOCAL-00001" summary="added *.idea/ to .gitignore">
+      <created>1564783851212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564783851212</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -299,6 +317,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added *.idea/ to .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="added *.idea/ to .gitignore" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.CountBoxes.py.swp">
       <provider selected="true" editor-type-id="text-editor" />
@@ -348,11 +370,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AutonomousSurvey.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vision/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
         </state>
       </provider>
     </entry>
