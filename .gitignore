@@ -1,6 +1,6 @@
 # darkflow
 darkflow/
-
+*__pychache__/
 
 # cfg
 Vision/cfg/
